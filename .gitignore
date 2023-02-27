@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+fmri-01/data/*
+.gitignore
+.vscode/settings.json
+fmri-00/T1w_copy.nii.gz
+.gitignore
+fmri-05/data
+homework/hw1_data/*
